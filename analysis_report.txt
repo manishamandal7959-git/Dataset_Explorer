@@ -1,0 +1,17 @@
+
+DATASET EXPLORER - ANALYSIS REPORT
+=================================
+
+Total Students: 6
+
+Average Maths Marks: 84.00
+Average Science Marks: 84.00
+
+Highest Maths Marks: 95
+Highest Science Marks: 94
+
+Highest Total Marks: 186
+Lowest Total Marks: 139
+
+Missing Values: 0
+Duplicate Rows: 0

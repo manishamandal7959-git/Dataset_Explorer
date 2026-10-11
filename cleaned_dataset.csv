@@ -1,0 +1,7 @@
+Name,Age,City,Maths,Science,Total,Average,Difference,Performance,Maths_Result,Science_Result,Overall_Result,Absolute_Difference,Age_Group,Rank,Maths_Rank,Science_Rank,Grade
+Aman,20,Delhi,85,78,163,81.5,7,Good,Pass,Pass,Pass,7,Young Adult,4,4,5,B
+Riya,21,Mumbai,92,88,180,90.0,4,Excellent,Pass,Pass,Pass,4,Young Adult,3,2,3,A
+Karan,19,Delhi,76,81,157,78.5,-5,Average,Pass,Pass,Pass,5,Teen,5,5,4,C
+Sneha,20,Pune,89,94,183,91.5,-5,Excellent,Pass,Pass,Pass,5,Young Adult,2,3,1,A
+Rahul,22,Mumbai,67,72,139,69.5,-5,Needs Improvement,Pass,Pass,Pass,5,Adult,6,6,6,D
+Priya,21,Delhi,95,91,186,93.0,4,Excellent,Pass,Pass,Pass,4,Young Adult,1,1,2,A
